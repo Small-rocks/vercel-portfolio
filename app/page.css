@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    border-radius: 25;
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    box-shadow:black;
+    color: aliceblue;
+    width: 100%;
+    height: auto;
+}
+
+.supa-body{
+    border-radius: 25;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(145, 145, 145, 0.744);
+    box-shadow:black;
+    color: aliceblue;
+    width: 100%;
+    height: auto;
+}
